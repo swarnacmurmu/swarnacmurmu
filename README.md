@@ -96,10 +96,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnacmurmu&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnacmurmu&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnacmurmu&theme=tokyonight"/>
