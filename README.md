@@ -26,5 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnacmurmu&" alt="swarnacmurmu" /></p>
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=swarnacmurmu)](https://github.com/swarnacmurmu/github-readme-profile)
+
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=dark)
 
