@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on coding skills and small projects<br><br>🌱 I’m currently learning new technologies and improving my programming skills<br><br>👯 I’m looking to collaborate on interesting projects and open source<br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnacmurmu&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnacmurmu&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ## 🌐 Socials:
