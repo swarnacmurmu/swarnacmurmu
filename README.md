@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on coding practice and small projects<br><br>🌱 I’m currently learning new technologies and improving my programming skills<br><br>👯 I’m looking to collaborate on interesting projects and open source<br><br>
 
-[![Anurag's's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnacmurmu)](https://github.com/swarnacmurmu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnacmurmu)](https://github.com/swarnacmurmu/github-readme-stats)
 
 
 ## 🌐 Socials:
